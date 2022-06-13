@@ -8,8 +8,9 @@ h1 {
     color: rgb(185,81,46);
 }
 
+ol,
 ul {
-    list-style: inside;
+    list-style-position: inside;
 }
 
 img {
